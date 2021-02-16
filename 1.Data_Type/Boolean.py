@@ -1,5 +1,0 @@
-print(10<1)
-print(5>3)
-print(False)
-print(not True)
-print(not 1>10)
